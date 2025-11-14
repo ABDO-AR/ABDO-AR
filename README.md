@@ -16,7 +16,21 @@ I empower startups across **10+ countries** by building **fast, scalable, and co
 - **Platforms & Tools:** Supabase, Firebase, n8n, GitHub  
 
 ## 🌐 Empowering Startups Across 10+ Countries
-🇪🇬 🇺🇸 🇬🇧 🇦🇪 🇸🇦 🇲🇦 🇫🇷 🇳🇱 🇮🇳 🇦🇺 🇹🇳 🇵🇱 🇨🇳  
+<p>
+  <img src="https://flagcdn.com/eg.svg" alt="Egypt" height="20"/>
+  <img src="https://flagcdn.com/us.svg" alt="USA" height="20"/>
+  <img src="https://flagcdn.com/gb.svg" alt="UK" height="20"/>
+  <img src="https://flagcdn.com/ae.svg" alt="UAE" height="20"/>
+  <img src="https://flagcdn.com/sa.svg" alt="Saudi Arabia" height="20"/>
+  <img src="https://flagcdn.com/ma.svg" alt="Morocco" height="20"/>
+  <img src="https://flagcdn.com/fr.svg" alt="France" height="20"/>
+  <img src="https://flagcdn.com/nl.svg" alt="Netherlands" height="20"/>
+  <img src="https://flagcdn.com/in.svg" alt="India" height="20"/>
+  <img src="https://flagcdn.com/au.svg" alt="Australia" height="20"/>
+  <img src="https://flagcdn.com/tn.svg" alt="Tunisia" height="20"/>
+  <img src="https://flagcdn.com/pl.svg" alt="Poland" height="20"/>
+  <img src="https://flagcdn.com/cn.svg" alt="China" height="20"/>
+</p>
 
 ## 🏆 Achievements
 - **Magazine 30.30 Representer** – Featured in a 10,000-copy issue  
